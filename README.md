@@ -10,3 +10,5 @@ I have plans to update this further, like downloading large playlists (Even your
 <img width="600" height="601" alt="image" src="https://github.com/user-attachments/assets/dd4bb00c-2623-4f1f-ab0d-f9e5e76a3148" /> <br>
 *Your video should appear here, then click on download, and download it accordingly to what you need*
 <img width="554" height="253" alt="image" src="https://github.com/user-attachments/assets/b9e23017-1a86-42b5-a45a-bdf8cc7c848d" /> <br>
+
+# Downloads are saved in the same path, as your project, under a folder named "Downloads"
